@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 
 data/roads.csv
+outputs/cleaned_roads.csv
