@@ -199,15 +199,15 @@ OpenStreetMap-Road-Network-Validation
 
 ### Data Quality Assessment
 
-![Data Quality Dashboard](screenshots/page1_data_quality.png)
+![Data Quality Dashboard](screenshots/page1_Data_Quality_Assessment.png)
 
 ### Road Network Structure Analysis
 
-![Road Network Analysis](screenshots/page2_network_analysis.png)
+![Road Network Analysis](screenshots/page2_Road_Network_Structure_Analysis.png)
 
 ### Infrastructure Insights
 
-![Infrastructure Insights](screenshots/page3_infrastructure_insights.png)
+![Infrastructure Insights](screenshots/page3_Infrastructure_Insights.png)
 
 ---
 
