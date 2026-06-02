@@ -1,0 +1,14 @@
+highway_cleaned,count
+residential,317516
+tertiary,20847
+secondary,7397
+living_street,3824
+primary,3534
+trunk,2074
+unclassified,1434
+primary_link,383
+tertiary_link,314
+trunk_link,312
+secondary_link,251
+motorway,38
+motorway_link,23

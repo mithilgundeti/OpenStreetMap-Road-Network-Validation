@@ -1,0 +1,11 @@
+Metric,Value
+Total Road Segments,357947.0
+Missing Road Names,318162.0
+Missing Highway Type,0.0
+Missing Speed Limits,347192.0
+Missing Lane Information,352761.0
+Missing Width Information,357879.0
+Duplicate Records,0.0
+Invalid Road Lengths,0.0
+Total Validation Errors,1375994.0
+Weighted Quality Score,43.45
