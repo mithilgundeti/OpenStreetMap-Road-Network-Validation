@@ -1,5 +1,11 @@
 # OpenStreetMap Road Network Validation & Analysis
 
+## Problem Statement
+
+Road network datasets collected from OpenStreetMap often contain incomplete, inconsistent, or unvalidated information such as missing road names, inconsistent road classifications, and incomplete attribute data. Poor-quality geospatial data can negatively impact navigation systems, urban planning analysis, transportation modeling, and location-based services.
+
+This project focuses on validating and analyzing OpenStreetMap road network data using Python and Power BI. The workflow identifies data quality issues, performs road network analysis, evaluates infrastructure characteristics, and generates interactive dashboards for transportation and urban analytics.
+
 ## Project Overview
 
 This project focuses on assessing the quality, completeness, and structural characteristics of OpenStreetMap (OSM) road network data using Python and Power BI.
